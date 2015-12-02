@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.joelle.testapp2"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Test App 2</name>
+
+    <description>
+        Testing functions for beacon
+    </description>
+	
+	<plugin name="ptdev.makingwaves2.estimotes" spec="1.0.1" source="pgb" />
+	
+</widget>
